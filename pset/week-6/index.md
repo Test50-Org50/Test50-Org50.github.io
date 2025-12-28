@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Week 6
 ---
 
-# Week 3
+# Week 6
 
 *Coming soon...*

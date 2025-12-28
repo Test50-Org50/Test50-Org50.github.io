@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Search
 ---
 
-# Week 3
+# Search
 
 *Coming soon...*

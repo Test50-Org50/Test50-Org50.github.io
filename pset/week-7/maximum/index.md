@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Maximum
 ---
 
-# Week 3
+# Maximum
 
 *Coming soon...*

@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Minimum
 ---
 
-# Week 3
+# Minimum
 
 *Coming soon...*

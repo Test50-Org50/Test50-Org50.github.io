@@ -6,3 +6,11 @@ plugins:
 remote_theme: cs50/jekyll-theme-cs50
 
 title: ITI CS50
+
+cs50:
+  alert: warning dismissible
+  description: ITI CS50 - Introduction to Computer Science
+
+exclude:
+  - manuals
+  - vendor

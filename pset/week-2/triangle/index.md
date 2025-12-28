@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Triangle
 ---
 
-# Week 3
+# Triangle
 
 *Coming soon...*

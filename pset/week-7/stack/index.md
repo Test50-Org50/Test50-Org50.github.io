@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Stack
 ---
 
-# Week 3
+# Stack
 
 *Coming soon...*

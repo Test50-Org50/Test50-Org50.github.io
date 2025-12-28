@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Hashes
 ---
 
-# Week 3
+# Hashes
 
 *Coming soon...*

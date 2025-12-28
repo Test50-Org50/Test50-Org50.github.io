@@ -1,7 +1,7 @@
 ---
-title: Week 3
+title: Queue
 ---
 
-# Week 3
+# Queue
 
 *Coming soon...*
