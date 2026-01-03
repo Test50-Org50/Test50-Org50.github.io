@@ -56,3 +56,19 @@ Print a triangle of size \\(n\\).
 ****
 *****
 ```
+
+## Test Your Code
+
+Make sure you are in the `triangle` directory, then run the following command:
+
+```bash
+check50 iti-technical-team/week2/2026/2/triangle
+```
+
+## Submit Your Code
+
+Make sure you are in the `triangle` directory, then run the following command:
+
+```bash
+submit50 iti-technical-team/week2/2026/2/triangle
+```
