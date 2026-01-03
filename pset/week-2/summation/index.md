@@ -54,3 +54,19 @@ Print the sum of all integers.
 ```
 17
 ```
+
+## Test Your Code
+
+Make sure you are in the `summation` directory, then run the following command:
+
+```bash
+check50 iti-technical-team/week2/2026/2/summation
+```
+
+## Submit Your Code
+
+Make sure you are in the `summation` directory, then run the following command:
+
+```bash
+submit50 iti-technical-team/week2/2026/2/summation
+```
