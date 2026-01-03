@@ -50,3 +50,19 @@ Print \\(n\\) hashes.
 ```
 #####
 ```
+
+## Test Your Code
+
+Make sure you are in the `hashes` directory, then run the following command:
+
+```bash
+check50 iti-technical-team/week2/2026/2/hashes
+```
+
+## Submit Your Code
+
+Make sure you are in the `hashes` directory, then run the following command:
+
+```bash
+submit50 iti-technical-team/week2/2026/2/hashes
+```
