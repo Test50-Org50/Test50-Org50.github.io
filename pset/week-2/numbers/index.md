@@ -50,3 +50,19 @@ Print all numbers from 1 to \\(n\\) inclusive, space-separated.
 ```
 1 2 3 4 5
 ```
+
+## Test Your Code
+
+Make sure you are in the `numbers` directory, then run the following command:
+
+```bash
+check50 iti-technical-team/week2/2026/2/numbers
+```
+
+## Submit Your Code
+
+Make sure you are in the `numbers` directory, then run the following command:
+
+```bash
+submit50 iti-technical-team/week2/2026/2/numbers
+```
