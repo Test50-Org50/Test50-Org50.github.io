@@ -60,7 +60,7 @@ Print the sum of all integers.
 Make sure you are in the `summation` directory, then run the following command:
 
 ```bash
-check50 iti-technical-team/week2/2026/2/summation
+check50 iti-technical-team/problemset/2026/2/summation
 ```
 
 ## Submit Your Code
@@ -68,5 +68,5 @@ check50 iti-technical-team/week2/2026/2/summation
 Make sure you are in the `summation` directory, then run the following command:
 
 ```bash
-submit50 iti-technical-team/week2/2026/2/summation
+submit50 iti-technical-team/problemset/2026/2/summation
 ```

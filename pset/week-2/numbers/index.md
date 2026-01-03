@@ -56,7 +56,7 @@ Print all numbers from 1 to \\(n\\) inclusive, space-separated.
 Make sure you are in the `numbers` directory, then run the following command:
 
 ```bash
-check50 iti-technical-team/week2/2026/2/numbers
+check50 iti-technical-team/problemset/2026/2/numbers
 ```
 
 ## Submit Your Code
@@ -64,5 +64,5 @@ check50 iti-technical-team/week2/2026/2/numbers
 Make sure you are in the `numbers` directory, then run the following command:
 
 ```bash
-submit50 iti-technical-team/week2/2026/2/numbers
+submit50 iti-technical-team/problemset/2026/2/numbers
 ```

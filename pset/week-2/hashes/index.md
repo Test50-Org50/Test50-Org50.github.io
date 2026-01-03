@@ -56,7 +56,7 @@ Print \\(n\\) hashes.
 Make sure you are in the `hashes` directory, then run the following command:
 
 ```bash
-check50 iti-technical-team/week2/2026/2/hashes
+check50 iti-technical-team/problemset/2026/2/hashes
 ```
 
 ## Submit Your Code
@@ -64,5 +64,5 @@ check50 iti-technical-team/week2/2026/2/hashes
 Make sure you are in the `hashes` directory, then run the following command:
 
 ```bash
-submit50 iti-technical-team/week2/2026/2/hashes
+submit50 iti-technical-team/problemset/2026/2/hashes
 ```

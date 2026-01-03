@@ -62,7 +62,7 @@ Print a triangle of size \\(n\\).
 Make sure you are in the `triangle` directory, then run the following command:
 
 ```bash
-check50 iti-technical-team/week2/2026/2/triangle
+check50 iti-technical-team/problemset/2026/2/triangle
 ```
 
 ## Submit Your Code
@@ -70,5 +70,5 @@ check50 iti-technical-team/week2/2026/2/triangle
 Make sure you are in the `triangle` directory, then run the following command:
 
 ```bash
-submit50 iti-technical-team/week2/2026/2/triangle
+submit50 iti-technical-team/problemset/2026/2/triangle
 ```
